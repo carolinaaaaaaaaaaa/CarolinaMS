@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <open>1</open>
+    <visibility>1</visibility>
+    <name>88m</name>
+    <description>Velocidad: 0 km/h
+Elevación: -3 m
+Precisión: 4 m</description>
+    <atom:author>
+      <atom:name></atom:name>
+    </atom:author>
+    <atom:link href="" />
+    <ExtendedData>
+      <Data name="comment">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <TimeStamp>
+      <when>2023-10-10T14:55:08Z</when>
+    </TimeStamp>
+    <Style id="track">
+      <LineStyle>
+        <color>ffff0000</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Schema id="geotrackerTrackSchema">
+      <gx:SimpleArrayField name="speed" type="float">
+        <displayName>Speed, meters per second</displayName>
+      </gx:SimpleArrayField>
+      <gx:SimpleArrayField name="course" type="float">
+        <displayName>Course, radians</displayName>
+      </gx:SimpleArrayField>
+    </Schema>
+    <Placemark>
+      <name>88m</name>
+      <description>Velocidad: 0 km/h
+Elevación: -3 m
+Precisión: 4 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73583165,20.98759001,-3.38</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:55:08Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>Ubicación actual</name>
+      <description>Velocidad: 1.51 km/h
+Curso: 16°
+Elevación: 10 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73586766,20.9876363,9.93</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:56:14Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>72m</name>
+      <description>Velocidad: 0 km/h
+Elevación: 8 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73586912,20.98770039,7.68</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:56:40Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>64m</name>
+      <description>Velocidad: 3.92 km/h
+Curso: 359°
+Elevación: 4 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73588098,20.98777214,4.12</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:00Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>56m</name>
+      <description>Velocidad: 4.9 km/h
+Curso: 7°
+Elevación: 7 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73588156,20.98786221,6.51</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:19Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>48m</name>
+      <description>Velocidad: 4.32 km/h
+Curso: 352°
+Elevación: 5 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587123,20.98793112,4.56</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:57:43Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>40m</name>
+      <description>Velocidad: 3.53 km/h
+Curso: 8°
+Elevación: 2 m
+Precisión: 10 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73589862,20.98799066,2.23</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:58:13Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>32m</name>
+      <description>Velocidad: 3.67 km/h
+Curso: 348°
+Elevación: 3 m
+Precisión: 10 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73589247,20.9880545,2.57</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:58:36Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>24m</name>
+      <description>Velocidad: 3.71 km/h
+Curso: 357°
+Elevación: 3 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73587245,20.98812468,2.71</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:58:56Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>16m</name>
+      <description>Velocidad: 3.56 km/h
+Curso: 3°
+Elevación: 2 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73586121,20.98819674,1.65</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:59:11Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>8m</name>
+      <description>Velocidad: 3.56 km/h
+Curso: 354°
+Elevación: 1 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.7358739,20.98826288,1.48</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:59:25Z</when>
+      </TimeStamp>
+    </Placemark>
+    <Placemark>
+      <name>0m</name>
+      <description>Velocidad: 3.53 km/h
+Curso: 44°
+Elevación: -1 m
+Precisión: 3 m</description>
+      <atom:author>
+        <atom:name></atom:name>
+      </atom:author>
+      <atom:link href="" />
+      <ExtendedData>
+        <Data name="comment">
+          <value></value>
+        </Data>
+        <Data name="visited">
+          <value>1</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>-89.73591224,20.98835156,-1.02</coordinates>
+      </Point>
+      <TimeStamp>
+        <when>2023-10-10T14:59:41Z</when>
+      </TimeStamp>
+    </Placemark>
+  </Document>
+</kml>
